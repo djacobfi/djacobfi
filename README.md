@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=ff006e&height=220&section=header&text=DJACOBFI&fontSize=90&fontColor=00f0ff&animation=fadeIn&fontAlignY=55&fontAlign=72&desc=//%20jack%20in%20the%20signal%20//&descAlignY=78&descAlign=72&descSize=14" alt="cyberpunk header" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=ff006e&height=220&section=header&text=Damien&fontSize=90&fontColor=00f0ff&animation=fadeIn&fontAlignY=55&fontAlign=72&desc=//%20jack%20in%20the%20signal%20//&descAlignY=78&descAlign=72&descSize=14" alt="cyberpunk header" />
 
 <a href="https://github.com/djacobfi">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2400&pause=500&color=FF006E&background=0D001A00&center=true&vCenter=true&width=720&lines=%3E+initializing+neural+link...;%3E+ENGINEER+%40+POLYNOMIAL+%2F%2F+ONLINE;%3E+writing+perpetual+futures+infra;%3E+side_quests%3A+games+%2F+strategies+%2F+rogue_code;%3E+ship.measure.iterate()" alt="terminal typing" />
