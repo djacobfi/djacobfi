@@ -8,7 +8,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=djacobfi&label=visitors&color=ff006e&style=flat-square" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=Damien Jacob&label=visitors&color=ff006e&style=flat-square" alt="views" />
 <img src="https://img.shields.io/github/followers/djacobfi?label=followers&style=flat-square&color=00f0ff&labelColor=0d001a" alt="followers" />
 <img src="https://img.shields.io/badge/status-jacked__in-b026ff?style=flat-square&labelColor=0d001a" alt="status" />
 
