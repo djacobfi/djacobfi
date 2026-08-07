@@ -1,0 +1,6 @@
+# Portrait pipeline only — needed locally when you change your photo.
+# The daily GitHub Actions workflow does NOT install these (see requirements.txt).
+pillow
+numpy
+opencv-python
+rembg[cpu]   # the [cpu] extra pulls onnxruntime; plain `rembg` has no backend
